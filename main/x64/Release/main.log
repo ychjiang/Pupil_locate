@@ -1,0 +1,15 @@
+﻿  findEyeCenter.cpp
+c:\users\administrator\desktop\pupil_locate\eyelike1.0\main\constants.h(15): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\administrator\desktop\pupil_locate\eyelike1.0\main\constants.h(26): warning C4305: “初始化”: 从“double”到“float”截断
+findEyeCenter.cpp(21): warning C4068: 未知的杂注
+findEyeCenter.cpp(49): warning C4068: 未知的杂注
+findEyeCenter.cpp(56): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+findEyeCenter.cpp(57): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+findEyeCenter.cpp(62): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+findEyeCenter.cpp(82): warning C4068: 未知的杂注
+findEyeCenter.cpp(202): warning C4068: 未知的杂注
+  正在生成代码
+  All 386 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  main.vcxproj -> C:\Users\Administrator\Desktop\Pupil_locate\eyelike1.0\x64\Release\main.exe
+  main.vcxproj -> C:\Users\Administrator\Desktop\Pupil_locate\eyelike1.0\x64\Release\main.pdb (Full PDB)
